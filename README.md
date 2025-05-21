@@ -1,6 +1,6 @@
-# BabyAdvisor Telegram Bot
+# BabyBuddy Telegram Bot
 
-BabyAdvisor is a Telegram bot designed to provide evidence-based parenting advice and support. It helps parents get quick, reliable answers to common parenting questions and challenges.
+BabyBuddy is a Telegram bot designed to provide evidence-based parenting advice and support. It helps parents get quick, reliable answers to common parenting questions and challenges.
 
 ## Features
 
